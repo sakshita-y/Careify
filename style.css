@@ -1,0 +1,47 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-size: 80px;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+canvas {
+  background-color: black;
+  
+}
+
+a {
+  color: palevioletred;
+}
+
+h2, h1 {
+  color: turquoise;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  float: right;
+  margin: 40px;
+  border: 5px solid orange;
+  border-radius: 20px;
+  width: fit-content;
+  height: fit-content;
+  font-family: Tahoma;
+  color: cadetblue;
+}
+
+img {
+  border:solid;
+  width: 200px;
+  height: 200px;
+}
+
+div {
+  border:solid;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}

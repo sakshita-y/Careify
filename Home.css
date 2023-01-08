@@ -1,0 +1,153 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+  canvas {
+    background-color: black;
+  }
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40 px;
+    font-family: sans-serif;
+  
+  }
+  .grid img{
+    border: 2px solid black;
+    border-radius: 40px;
+  }
+
+  .icons {
+    background-color: yellowgreen;
+    border-radius: 3;
+  
+    padding: 0.8%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Tahoma;
+    width:200px;
+  
+  }
+  .icons:hover{
+    transform: scale(1.5);
+  }
+
+  h1 {
+      color: mediumslateblue;
+      display: flex;
+      font-size: 40px;
+  }
+
+  a {
+    color: gold;
+    font-size: 40px;
+  }
+
+  .yoga-script {
+    color: indianred;
+    width: 800px;
+    text-align: center;
+    display: contents;
+    position: absolute;
+    font-size: 40px;
+  }
+
+  .yoga-links a {
+   font-size: 30px;
+   color: peru;
+   margin-bottom: 20px;
+  }
+
+  .yoga-links p {
+    font-size: 30px;
+    color: violet;
+    margin:10px;
+   }
+
+   .watch p{
+    color: grey;
+    width: 800px;
+    text-align: center;
+    display: contents;
+    position: absolute;
+    font-size: 30px;
+   }
+
+   .shows {
+    font-size: 25px;
+    color: violet;
+    margin:0;
+    text-align: center;
+   }
+
+   .covid img{
+     width:600px;
+     height:400px;
+     align-content:center;
+   }
+
+   .covid p {
+    font-size: 25px;
+    color:goldenrod;
+    margin:0;
+    text-align: center;
+   }
+
+   .cook {
+    color:lightcyan;
+    width: 800px;
+    text-align: center;
+    display: contents;
+    position: absolute;
+    font-size: 40px;
+   }
+
+.recipes a {
+   font-size: 30px;
+   color: peru;
+   margin-bottom: 20px;
+  }
+
+  .recipes p {
+    font-size: 30px;
+    color:violet;
+    margin:10px;
+   }
+
+   .exercise {
+    color: coral;
+    width: 800px;
+    text-align: center;
+    display: contents;
+    position: absolute;
+    font-size: 40px;
+   }
+
+   .fact {
+    color:green;
+    width: 800px;
+    text-align: center;
+    display: contents;
+    position: absolute;
+    font-size: 40px;
+   }
+
+   .workouts {
+    font-size: 30px;
+    color: peru;
+    margin-bottom: 20px;
+    display: list-item;
+   }
+
+   .tipslist {
+    font-size: 40px;
+    color:hotpink;
+    margin-bottom: 20px;
+    display: list-item;
+   }
